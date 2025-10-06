@@ -10,7 +10,7 @@
 [Poznámky a postřehy](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#pozn%C3%A1mky-a-post%C5%99ehy)
 
 ## Zadání z olivy 
-1. **Rasterizace úsečky, čáry s barevným přrechodem a n-úhelníku**
+**Rasterizace úsečky, čáry s barevným přrechodem a n-úhelníku**
  - Vytvořte program pro kreslení úsečky zadané dvěma libovolnými koncovými body [x1,y1] a [x2,y2].
  - Koncové body zadávejte interaktivně pomocí tzv. pružné čáry. Stisknutím tlačítka myši zadáte první vrchol, při tažení myší se bude vykreslovat aktuální úsečka společně s již vykreslenou scénou a při uvolnění tlačítka se potvrdí koncový vrchol.
  - K implementaci použijte rozhraní a třídy definované na cvičeních. Třídy případně upravte nebo doplňte o potřebné metody. *Návrhy třídy Point, Line a LineRasterizer naleznete v modulu task1 (viz Oliva-obsah-ukázky a návody)*.
