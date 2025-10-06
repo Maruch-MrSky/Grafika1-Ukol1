@@ -1,9 +1,9 @@
 # Grafika1-Ukol1
 úkol 1 na PRGF1 - UHK
-- [Zadání](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#zad%C3%A1n%C3%AD-z-olivy)
-- [Plán](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#pl%C3%A1n)
-- Progress
-- Poznámky a postřehy
+/- [Zadání](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#zad%C3%A1n%C3%AD-z-olivy)
+/- [Plán](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#pl%C3%A1n)
+/- [Progress](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#progress-viktoooor)
+/- [Poznámky a postřehy](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#pozn%C3%A1mky-a-post%C5%99ehy)
 
 ## Zadání z olivy 
 1. **Rasterizace úsečky, čáry s barevným přrechodem a n-úhelníku**
