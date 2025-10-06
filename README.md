@@ -1,5 +1,9 @@
 # Grafika1-Ukol1
 úkol 1 na PRGF1 - UHK
+- [Zadání](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#zad%C3%A1n%C3%AD-z-olivy)
+- [Plán](https://github.com/Maruch-MrSky/Grafika1-Ukol1?tab=readme-ov-file#pl%C3%A1n)
+- Progress
+- Poznámky a postřehy
 
 ## Zadání z olivy 
 1. **Rasterizace úsečky, čáry s barevným přrechodem a n-úhelníku**
@@ -28,3 +32,8 @@ Odevzdávejte prostřednictvím Olivy, před odevzdáním si znovu přečtěte p
  - Shift + M1 - vodorovné čáry 
  - usečka dvou barev
  - C - maže Canvas *(hehe přebarvit cely canvas na černo/bílo místo čištění hehe)*
+
+## Progress (VIKTOOOOR!!)
+
+## Poznámky a postřehy
+ - zatím nic :c
